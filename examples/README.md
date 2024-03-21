@@ -13,6 +13,9 @@ P-hacking is blah blah blah ...
 
 ## Acknowledgments
 
+{METER AWARD}
+{CENTER AWARD}
+
 ### CITATION
 
 Please cite as 
