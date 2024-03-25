@@ -27,8 +27,9 @@ examples/
 
 Create automation. Goals:
 
-1. Most information in `.zenodo.json` and `README.md` should be auto-populated and updated from CENTER data sources (unit roadmaps and/or other data about METER personnel)
+1. Most information in `.zenodo.json` and `README.md` should be auto-populated and updated from CENTER centralized data sources (unit roadmaps and/or other data about METER personnel)
 
-2. Support customization in specific places:
+2. Support customization in the following ways:
+
     a. sub-licensing of specific components in units (e.g. C4R has permission to use a particular figure or table, but cannot share that component with an open license)
     b. personal acknowledgments for a particular unit
