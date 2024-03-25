@@ -32,4 +32,5 @@ Create automation. Goals:
 2. Support customization in the following ways:
 
     a. sub-licensing of specific components in units (e.g. C4R has permission to use a particular figure or table, but cannot share that component with an open license)
+    
     b. personal acknowledgments for a particular unit
