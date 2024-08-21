@@ -15,8 +15,7 @@
     "Workshop"
   ],
   "license": {
-      "id": "CC-BY-4.0", 
-      "id": "MIT"
+      "id": ["CC-BY-4.0", "MIT"]
   },
   "upload_type": "lesson"
 }
